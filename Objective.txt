@@ -1,0 +1,8 @@
+Find the most correlating variables in the house_data
+Write the Inference properly related to the relationship between variables
+
+Which are the variables can be considered for estimating the house price.
+Create a proper document and upload the screen shots of your analysis and write
+proper insights on those.
+
+Upload it in Github.
